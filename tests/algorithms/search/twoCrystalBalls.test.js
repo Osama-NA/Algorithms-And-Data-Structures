@@ -1,4 +1,4 @@
-const twoCrystalBalls = require('../../algorithms/search/twoCrystalBalls')
+const twoCrystalBalls = require('../../../algorithms/search/twoCrystalBalls')
 
 test("Two crystal balls:", function () {
     let idx = Math.floor(Math.random() * 10000);
